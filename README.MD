@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/preview.jpg)
+![](./src/assets//preview.jpg)
 
 ### Links
 
